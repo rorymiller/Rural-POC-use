@@ -1,10 +1,10 @@
 # Results
 
-Twenty-three rural hospitals responded to the survey request. Twenty-two filled this out completely.
+Twenty-three rural hospitals responded to the survey request.
 
 Of the respondents, three represented Level one rural hospitals, seven level two and thirteen level three rural hospitals.
 
-Sixteen (76%) rural hospitals used a point-of-care assay at some stage during the day. Thirteen (82%) of these were reliant on the point-of-care troponin 24-hours per day.
+Sixteen (70%) rural hospitals used a point-of-care assay at some stage during the day. Fourteen (88%) of these were reliant on the point-of-care troponin 24-hours per day.
 
 Two of the three level one rural hospitals are reliant on point-of-care troponin 24-hours per day. The other rural hospital has no access to troponin.
 

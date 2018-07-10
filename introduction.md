@@ -1,14 +1,15 @@
 # Introduction
 
-Since (x) testing troponin in the setting of chest pain has been an essential part of the risk assessment of acute coronary syndrome (ACS), including acute myocardial infarction (AMI). This should be true regardless of which part of the country a patient presents with chest pain in New Zealand (NZ), including in rural hospitals.
+Since (x) testing troponin in the setting of chest pain has been an essential part of the risk assessment of acute coronary syndrome (ACS), including acute myocardial infarction (AMI). This should be true regardless of which part of the country a patient presents with chest pain in New Zealand (NZ), including in rural hospitals. Troponin results should be available within an hour [**ref**]
+
 
 A rural hospital in NZ is defined as
 
-A 2011 survey of hospitals showed there were many assays available and being used in New Zealand.
+A 2011 survey of hospitals showed there were many assays available and being used in New Zealand with different sensitivities.
 
-Pushed by increasing pressure on health systems
 
 The aim of this survey is to gain a snapshot of the troponin assays used by NZ rural hospitals in 2018.
+
 
 
 
