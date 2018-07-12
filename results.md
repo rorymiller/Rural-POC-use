@@ -4,7 +4,7 @@ Twenty-three rural hospitals responded to the survey request.
 
 Of the respondents, three represented Level one rural hospitals, seven level two and thirteen level three rural hospitals.
 
-Sixteen (70%) rural hospitals used a point-of-care assay at some stage during the day. Fourteen (88%) of these were reliant on the point-of-care troponin 24-hours per day.
+Sixteen (70%) rural hospitals used a point-of-care assay at some stage during the day. Fourteen (60%) of these hospitals were reliant on the point-of-care troponin 24-hours per day.
 
 Two of the three level one rural hospitals are reliant on point-of-care troponin 24-hours per day. The other rural hospital has no access to troponin.
 
@@ -16,7 +16,7 @@ Most hospitals that are using point-of-care troponin are using the Abbott i-Stat
 
 Four (40%) rural hospitals using the Abbott I-stat cTnI were using the manufacturer's cut-off of 0.08 ug/L. The remaining hospitals were using a cut-off below the 99th centile (0.04 ug/L). All three hospitals using the Radiometer AQT-90 Flex use a cut-off lower (0.017) than that recommended by the manufacturer (0.03).
 
-Thirteen (56%) rural hospitals indicated they had access to high-sensitivity troponin assays with eight (35%) had high sensitivity assay available on-site. In all cases laboratory staff were required to be called back in after hours to perform the test. A high-sensitivity result was available within 1 hour during working hours in nine rural hospitals, but this reduced to six hospitals after-hours.
+Thirteen (56%) rural hospitals indicated they had access to high-sensitivity troponin assays with eight (35%) had high sensitivity assay available on-site. In all cases where high-senstivity troponin was available on-site, laboratory staff were required to be called back in after hours to perform the test. A high-sensitivity result was available within 1 hour during working hours in nine rural hospitals, but this reduced to six hospitals after-hours.
 
 Of hospitals that use point-of-care troponin 24-hours per day, nine (69%) did not use an accelerated chest pain pathway (combine ECG and objective risk assessment). three used EDACS-ADP and one used a combination of the HEART and TIMI scores.
 
